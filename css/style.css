@@ -1,0 +1,50 @@
+body {
+	background:#39004d;
+	font-family: Roboto, sans-serif;
+	font-size: 18px;
+  margin:0;
+	padding:0;
+}
+
+.header {
+	color:#f3f3f3;
+	text-align: center;
+}
+
+#header {
+	margin-bottom: 9px;
+	margin-top: 9px;
+}
+
+#clear {
+	background: #e6ccff;
+	border-radius: 7px;
+	font-size: 18px;
+	height: 33px;
+	text-align: center;
+	vertical-align: middle;
+	width: 130px;
+  margin-top: 9px;
+  margin-bottom: 23px;
+}
+
+.container {
+	background:#f2e6ff;
+	display: block;
+	height: 730px;
+  width: 730px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.row {
+	display: flex;
+}
+
+.square {
+	display: inline-block;
+}
+
+.highlight {
+	background:#000;
+}
